@@ -1,0 +1,6 @@
+number1 = int(input("Ingresa un valor: "))
+number2 = int(input("Ingresa un valor: "))
+print(f'La Suma de {number1} + {number2} es: {number1+number2}')
+print(f'La Resta de {number1} - {number2} es: {number1-number2}')
+print(f'La Multiplicación de {number1} * {number2} es: {number1*number2}')
+print(f'La Divición de {number1} / {number2} es: {number1/number2}')
